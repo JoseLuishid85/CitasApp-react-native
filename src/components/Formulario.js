@@ -142,7 +142,7 @@ const Formulario = ({
                             keyboardType='number-pad'
                             value={telefono}
                             onChangeText={setTelefono}
-                            maxLength={12}
+                            maxLength={20}
                         />
                     </View>
 
